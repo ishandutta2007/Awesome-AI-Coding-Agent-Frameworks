@@ -57,7 +57,7 @@ A comprehensive comparison of top commercial AI coding assistants, autonomous ag
 
 ## 🌟 Open-Source AI Coding Agents & Frameworks
 
-The open-source AI developer ecosystem offers self-hostable, customizable, and privacy-preserving alternatives to proprietary assistants. Repositories below are ordered by GitHub Stars_Count in descending order: 🏆
+The open-source AI developer ecosystem offers self-hostable, customizable, and privacy-preserving alternatives to proprietary assistants. Repositories below are ordered by GitHub_Stars_Count in descending order: 🏆
 
 | Repository / Project | GitHub_Stars | Focus & Description | Supported Models / Runtime |
 | :--- | :--- | :--- | :--- |
