@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Agent-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Frameworks/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Agent-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Frameworks/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -57,9 +57,9 @@ A comprehensive comparison of top commercial AI coding assistants, autonomous ag
 
 ## 🌟 Open-Source AI Coding Agents & Frameworks
 
-The open-source AI developer ecosystem offers self-hostable, customizable, and privacy-preserving alternatives to proprietary assistants. Repositories below are ordered by GitHub star count in descending order: 🏆
+The open-source AI developer ecosystem offers self-hostable, customizable, and privacy-preserving alternatives to proprietary assistants. Repositories below are ordered by GitHub Stars_Count in descending order: 🏆
 
-| Repository / Project | Stars | Focus & Description | Supported Models / Runtime |
+| Repository / Project | GitHub_Stars | Focus & Description | Supported Models / Runtime |
 | :--- | :--- | :--- | :--- |
 | **[Ollama](https://github.com/ollama/ollama)** 🦙 | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Lightweight, extensible framework to build and run local LLMs (DeepSeek-Coder, Qwen-Coder, Llama) directly on developer machines. | Local (Llama 3, DeepSeek, CodeQwen, Mistral) |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** 🌐 | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Self-hosted user interface with document RAG, code highlighting, and multi-model routing for coding tasks. | Ollama, OpenAI, Anthropic, vLLM |
@@ -95,7 +95,7 @@ We welcome additions, corrections, and new entries to maintain an accurate and c
 1. 🍴 **Fork the Repository** to your own GitHub account.
 2. ✍️ **Add or Update Entries**:
    - For **SaaS tools**: Provide official product link, parent organization, pricing plan, free tier limit, and differentiators.
-   - For **Open-Source projects**: Provide the GitHub repo link, star badge (`style=social&color=white`), and model support.
+   - For **Open-Source projects**: Provide the GitHub repo link, Stars_Badge (`style=social&color=white`), and model support.
 3. 🔍 **Keep Information Accurate**: Ensure pricing tiers and repository star links point to valid endpoints.
 4. 🚀 **Submit a Pull Request** with a clear summary of your changes.
 
