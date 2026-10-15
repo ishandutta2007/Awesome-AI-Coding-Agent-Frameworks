@@ -1,6 +1,6 @@
 # Awesome-AI-Coding-Agent-Frameworks
 
-# Top AI Code Search Platforms Ecosystem
+## Top AI Code Search Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Semantic Code Search, AI-Powered Codebase Navigation, Context Retrieval & Developer Discovery*
 **Last updated: October 2026**
